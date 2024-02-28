@@ -1,0 +1,14 @@
+2024-02-01 17:27:12.852  INFO 17584 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 17584 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-02-01 17:27:12.854  INFO 17584 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-02-01 17:27:12.889  INFO 17584 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-01 17:27:12.889  INFO 17584 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-02-01 17:27:13.602  INFO 17584 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-02-01 17:27:13.609  INFO 17584 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-01 17:27:13.609  INFO 17584 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-02-01 17:27:13.688  INFO 17584 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-02-01 17:27:13.689  INFO 17584 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 799 ms
+2024-02-01 17:27:13.797  INFO 17584 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-02-01 17:27:13.935  INFO 17584 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-02-01 17:27:14.205  INFO 17584 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-02-01 17:27:14.235  INFO 17584 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-02-01 17:27:14.243  INFO 17584 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 1.764 seconds (JVM running for 2.764)

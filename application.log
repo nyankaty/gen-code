@@ -1,0 +1,171 @@
+2024-01-31 16:44:24.815  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 16:44:24.815  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 16:44:24.847  INFO 10292 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-31 16:44:24.847  INFO 10292 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-31 16:44:25.503  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 16:44:25.503  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 16:44:25.503  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 16:44:25.565  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 16:44:25.565  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 718 ms
+2024-01-31 16:44:25.675  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 16:44:25.821  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 16:44:26.071  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 16:44:26.102  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 16:44:26.117  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 1.629 seconds (JVM running for 2.929)
+2024-01-31 16:44:37.120  INFO 10292 --- [http-nio-8999-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-31 16:44:37.120  INFO 10292 --- [http-nio-8999-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-31 16:44:37.136  INFO 10292 --- [http-nio-8999-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 16 ms
+2024-01-31 16:47:45.360  INFO 10292 --- [Thread-9] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 16:47:45.501  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 16:47:45.501  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 16:47:45.673  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 16:47:45.673  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 16:47:45.673  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 16:47:45.688  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 16:47:45.688  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 187 ms
+2024-01-31 16:47:45.704  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 16:47:45.720  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 16:47:45.845  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 16:47:45.845  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 16:47:45.860  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.383 seconds (JVM running for 202.669)
+2024-01-31 16:47:45.860  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-01-31 16:53:25.803  INFO 10292 --- [Thread-16] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 16:53:25.928  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 16:53:25.928  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 16:53:26.085  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 16:53:26.085  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 16:53:26.085  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 16:53:26.100  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 16:53:26.100  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 172 ms
+2024-01-31 16:53:26.116  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 16:53:26.147  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 16:53:26.241  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 16:53:26.241  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 16:53:26.257  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.35 seconds (JVM running for 543.06)
+2024-01-31 16:53:26.257  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-01-31 16:57:23.942  INFO 10292 --- [Thread-21] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 16:57:24.052  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 16:57:24.052  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 16:57:24.193  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 16:57:24.193  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 16:57:24.193  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 16:57:24.208  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 16:57:24.208  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 156 ms
+2024-01-31 16:57:24.224  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 16:57:24.239  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 16:57:24.352  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 16:57:24.352  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 16:57:24.352  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.335 seconds (JVM running for 781.163)
+2024-01-31 16:57:24.352  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-01-31 17:00:53.221  INFO 10292 --- [Thread-26] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 17:00:53.330  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 17:00:53.330  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 17:00:53.471  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 17:00:53.471  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 17:00:53.471  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 17:00:53.487  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 17:00:53.487  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 157 ms
+2024-01-31 17:00:53.487  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 17:00:53.518  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 17:00:53.596  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 17:00:53.612  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 17:00:53.612  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.309 seconds (JVM running for 990.416)
+2024-01-31 17:00:53.612  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-01-31 17:16:25.568  INFO 10292 --- [Thread-31] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 17:16:25.646  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 17:16:25.646  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 17:16:25.787  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 17:16:25.787  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 17:16:25.787  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 17:16:25.803  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 17:16:25.803  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 157 ms
+2024-01-31 17:16:25.803  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 17:16:25.834  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 17:16:25.912  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 17:16:25.928  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 17:16:25.928  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.311 seconds (JVM running for 1922.729)
+2024-01-31 17:16:25.928  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-01-31 17:29:44.060  INFO 10292 --- [Thread-36] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 17:29:44.170  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 17:29:44.170  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 17:29:44.310  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 17:29:44.310  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 17:29:44.310  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 17:29:44.335  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 17:29:44.335  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 165 ms
+2024-01-31 17:29:44.344  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 17:29:44.363  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 17:29:44.441  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 17:29:44.457  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 17:29:44.457  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.3 seconds (JVM running for 2721.252)
+2024-01-31 17:29:44.457  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-01-31 17:30:59.865  INFO 10292 --- [Thread-41] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 17:30:59.930  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 17:30:59.930  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 17:31:00.080  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 17:31:00.081  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 17:31:00.081  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 17:31:00.097  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 17:31:00.098  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 168 ms
+2024-01-31 17:31:00.111  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 17:31:00.134  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 17:31:00.211  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 17:31:00.234  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 17:31:00.234  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.329 seconds (JVM running for 2797.031)
+2024-01-31 17:31:00.234  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-01-31 17:31:33.701  INFO 10292 --- [Thread-46] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 17:31:33.795  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 17:31:33.795  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 17:31:33.936  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 17:31:33.936  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 17:31:33.936  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 17:31:33.951  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 17:31:33.951  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 156 ms
+2024-01-31 17:31:33.967  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 17:31:33.983  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 17:31:34.076  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 17:31:34.092  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 17:31:34.092  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.313 seconds (JVM running for 2830.889)
+2024-01-31 17:31:34.092  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-01-31 17:35:49.846  INFO 10292 --- [Thread-51] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 17:35:49.909  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 17:35:49.909  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 17:35:50.049  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 17:35:50.049  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 17:35:50.049  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 17:35:50.065  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 17:35:50.065  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 156 ms
+2024-01-31 17:35:50.081  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 17:35:50.096  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 17:35:50.190  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 17:35:50.206  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 17:35:50.206  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.318 seconds (JVM running for 3087.003)
+2024-01-31 17:35:50.206  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-01-31 17:48:54.299  INFO 10292 --- [Thread-56] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 17:48:54.367  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 17:48:54.368  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 17:48:54.506  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 17:48:54.506  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 17:48:54.506  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 17:48:54.522  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 17:48:54.522  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 153 ms
+2024-01-31 17:48:54.532  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 17:48:54.553  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 17:48:54.664  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 17:48:54.674  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 17:48:54.676  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.33 seconds (JVM running for 3871.467)
+2024-01-31 17:48:54.677  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-01-31 17:59:27.784  INFO 10292 --- [Thread-61] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'getAsyncExecutor'
+2024-01-31 17:59:27.909  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Starting MainApplication using Java 1.8.0_202 on HNDW-TQVINH2 with PID 10292 (C:\Users\tqvinh2\Documents\NemoGenCode\target\classes started by tqvinh2 in C:\Users\tqvinh2\Documents\NemoGenCode)
+2024-01-31 17:59:27.909  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : No active profile set, falling back to default profiles: default
+2024-01-31 17:59:28.049  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8999 (http)
+2024-01-31 17:59:28.049  INFO 10292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-31 17:59:28.049  INFO 10292 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-01-31 17:59:28.190  INFO 10292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/nemo]   : Initializing Spring embedded WebApplicationContext
+2024-01-31 17:59:28.190  INFO 10292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 281 ms
+2024-01-31 17:59:28.206  INFO 10292 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'getAsyncExecutor'
+2024-01-31 17:59:28.221  INFO 10292 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-01-31 17:59:28.331  INFO 10292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-01-31 17:59:28.346  INFO 10292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8999 (http) with context path '/nemo'
+2024-01-31 17:59:28.346  INFO 10292 --- [restartedMain] nemo.gencode.MainApplication             : Started MainApplication in 0.464 seconds (JVM running for 4505.14)
+2024-01-31 17:59:28.346  INFO 10292 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
